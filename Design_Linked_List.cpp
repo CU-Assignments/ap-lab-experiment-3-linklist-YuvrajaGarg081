@@ -1,4 +1,4 @@
-class MyLinkedList {
+class MyLinkedList{
     private:
         struct Node {
             int val;
